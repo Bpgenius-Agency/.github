@@ -1,7 +1,7 @@
-# BPGenius
+# Bgpenius Agency, C.A.
 
 ## Descripción
-La organización **BPGenius** se dedica a ofrecer soluciones optimas y escalables a pequeñas, medianas y grandes empresas. Nuestro objetivo es desarrollar software de gran calidad, promover las mejores prácticas de desarrollo, fomentar la colaboración entre los miembros de la empresa y garantizar la satisfacción de nuestros clientes.
+La organización **Bpgenius** se dedica a ofrecer soluciones optimas y escalables a pequeñas, medianas y grandes empresas. Nuestro objetivo es desarrollar software de gran calidad, promover las mejores prácticas de desarrollo, fomentar la colaboración entre los miembros de la empresa y garantizar la satisfacción de nuestros clientes.
 
 Adecuamos nuestras soluciones a las necesidades de nuestros clientes, ofreciendo un servicio de calidad y un trato personalizado. Nuestro equipo de profesionales altamente cualificados y con amplia experiencia en el sector, garantiza la calidad de nuestros productos y servicios.
 
@@ -19,8 +19,7 @@ Seremos el referente en el desarrollo de software y la innovación tecnológica,
 - **Formación**: Apostamos por la formación continua de nuestro equipo.
 
 ## Contacto
-- **Dirección**: [Dirección de la empresa]
-- **Teléfono**: [Teléfono de la empresa]
-- **Email**: [Email de la empresa]
-- **Web**: [Web de la empresa]
-- **Redes sociales**: [Redes sociales de la empresa]
+- **Teléfono**: (0412)976-86-73
+- **Email**: bpgenius.agency@gmail.com
+- **Web**: bpgeniusagency.com
+- **Redes sociales**: bpgenius_agency
